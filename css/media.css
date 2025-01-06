@@ -1,0 +1,10 @@
+@media(max-width:992px){
+    .menu li{
+        display: none;
+    }
+
+    .menu-bar {
+        display: block;
+    }
+}
+
