@@ -6,5 +6,8 @@
     .menu-bar {
         display: block;
     }
+    .right-menu{
+        padding-top: 20px;
+    }
 }
 
